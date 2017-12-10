@@ -1,3 +1,3 @@
 # BlackJack
-BlackJack in C++
+BlackJack in C++ \<br>
 Ps: The database.txt is not important
