@@ -1,7 +1,7 @@
 #include "Player.h"
 
-//Author: Liqi.Chen15
-//ID: 1508274
+//Author: luke-chan@qq.com
+//GitHub: Luke-Chan
 
 void showresult(Player &player, Deck &controller);
 void checkCard(Player &player, Deck &controller);
@@ -13,7 +13,7 @@ void main()
 	char choice = ' ';
 	
 	//Game guide.
-	cout << "\nWelcome to Liqi.Chen's BlackJack Game!" <<endl;
+	cout << "\nWelcome to Luke-Chan's BlackJack Game!" <<endl;
 	cout << "--------------------------------------------" << endl;
 
 	cout << "For the rules of this game enter (R/r)" << endl;
